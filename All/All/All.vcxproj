@@ -21,11 +21,7 @@
   <ItemGroup>
     <ClCompile Include="CPlusPlusThing\Basic\const\class_const\main.cpp" />
     <ClCompile Include="CPlusPlusThing\Basic\const\class_const\Simple.cpp" />
-    <ClCompile Include="CPlusPlusThing\Basic\inline\inline.cpp" />
-    <ClCompile Include="CPlusPlusThing\Basic\inline\main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="CPlusPlusThing\Basic\inline\inline.h" />
+    <ClCompile Include="CPlusPlusThing\Basic\static\main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
