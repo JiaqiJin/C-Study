@@ -21,7 +21,7 @@
     <ClCompile Include="CPlusPlusThing\Basic\const\class_const\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CPlusPlusThing\Basic\static\main.cpp">
+    <ClCompile Include="CPlusPlusThing\Basic\decltype\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
