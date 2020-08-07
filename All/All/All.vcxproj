@@ -19,9 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPlusPlusThing\Basic\const\class_const\main.cpp" />
-    <ClCompile Include="CPlusPlusThing\Basic\const\class_const\Simple.cpp" />
-    <ClCompile Include="CPlusPlusThing\Basic\decltype\main.cpp" />
+    <ClCompile Include="CPlusPlusThing\testerMain.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

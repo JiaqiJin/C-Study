@@ -12,7 +12,7 @@ int i = 42, * p = &i , &r = i;
 decltype(r + 0) b;
 
 template<typename T>
-auto multiply(T x, T y)->decltype(x* y)
+auto multiply(T x, T y)->decltype(x * y)
 {
 	return x * y;
 }

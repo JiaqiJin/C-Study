@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPlusPlusThing\Basic\const\class_const\Simple.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CPlusPlusThing\Basic\const\class_const\main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CPlusPlusThing\Basic\decltype\main.cpp">
+    <ClCompile Include="CPlusPlusThing\testerMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
