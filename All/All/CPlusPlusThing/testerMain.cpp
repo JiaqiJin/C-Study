@@ -76,7 +76,7 @@ int main()
 	Person person(10, 10, 10);
 	std::cout << person.id << " " << person.age << "  " << person.height << endl;
 
-	memset(&person, NULL, sizeof(Person));
+	memset(&person, 0, sizeof(Person));
 
 	std::cout << person.id << " " << person.age << "  " << person.height << endl;
 

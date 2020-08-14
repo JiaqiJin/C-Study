@@ -15,8 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPlusPlusThing\testerMain.cpp">
+    <ClCompile Include="CPlusPlusThing\C++P_Exapler\SaleClass\SaleMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CPlusPlusThing\C++P_Exapler\SaleClass\DebugLiteralClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

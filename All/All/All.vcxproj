@@ -19,7 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPlusPlusThing\testerMain.cpp" />
+    <ClCompile Include="CPlusPlusThing\C++P_Exapler\SaleClass\SaleMain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CPlusPlusThing\C++P_Exapler\SaleClass\DebugLiteralClass.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
