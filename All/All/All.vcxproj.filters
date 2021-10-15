@@ -15,12 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPlusPlusThing\C++P_Exapler\SaleClass\SaleMain.cpp">
+    <ClCompile Include="CPlusPlusThing\DepthExpC++\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CPlusPlusThing\C++P_Exapler\SaleClass\DebugLiteralClass.h">
+    <ClInclude Include="CPlusPlusThing\DepthExpC++\Point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlusPlusThing\DepthExpC++\Vector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
